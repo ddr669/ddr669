@@ -8,7 +8,8 @@
 <p align="left">
   
   ```we are living in the Technofeudalism. nd thats is suck.```
-  <br>
+  <br> 
+  <img src="/gato_gay.jpg" alt="gato%20burro%20gay" width="60px" height="65px" align="right"/> 
   
   ```I hope you guys know that the World is the last thing we Have. dont give up!```
   
