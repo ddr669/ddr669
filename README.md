@@ -4,7 +4,7 @@
 <h2 align="center"> __DDr669__ <a href="https://github.com/ddr669"></a> </h2>
 <br><br>
 <br><br>
-<img src="/photomode_22022025_025429.png" alt="tvs%20de%20tubo%20com%20tela%20azul" height="200px" align="center"/>
+<img src="/photomode_22022025_025429.png" alt="tvs%20de%20tubo%20com%20tela%20azul" height="400px" width="100%" align="center"/>
 <!--
 **ddr669/ddr669** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
