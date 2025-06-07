@@ -28,7 +28,11 @@
 
 <div align="right">
 
-> "Wake The Fuck Up, Samurai!" - Johnny Silverhand
+> "Wake The Fuck Up, Samurai!"
+
+<br>
+
+> - Johnny Silverhand
 
 </div>
 
