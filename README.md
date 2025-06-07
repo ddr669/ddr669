@@ -2,7 +2,7 @@
 <img src="/kity_space.gif" alt="gato%20burro%20no%20espaço" width="60px" height="65px" align="right"/>
 <p align="left">
  
- ## __DDr669__ [\U0000](https://github.com/ddr669)
+ ## __DDr669__ [](https://github.com/ddr669)
  
 </p>
 
