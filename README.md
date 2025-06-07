@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![gato burro voando no espaço de capacete gif](/kity_space.gif) <source media="(max-height:250px)">
+![gato burro voando no espaço de capacete gif](/kity_space.gif) <source media="(max-height:50px)">
 <!--
 **ddr669/ddr669** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
