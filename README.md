@@ -2,7 +2,7 @@
 
 <!--![gato burro voando no espaço de capacete gif](/kity_space.gif) !-->
 
-<img src="/kity_space.gif" alt="gato%20burro%20no%20espaço" width="80px" height="50px"> 
+<img src="/kity_space.gif" alt="gato%20burro%20no%20espaço" width="110px" height="90px"> 
 
 <!--
 **ddr669/ddr669** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
