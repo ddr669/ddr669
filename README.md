@@ -6,6 +6,7 @@
 <p align="left"> we are living in the Technofeudalism. nd thats is suck.<br>I hope you guys know that the World is the last thing we Have. dont give up!</p>
 <br><br>
 <br><br>
+
 <p align="right">
 
 > "This city is a pile of shit, and you're gonna be part of it."
