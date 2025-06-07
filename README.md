@@ -6,12 +6,19 @@
 <p align="left"> we are living in the Technofeudalism. nd thats is suck.<br>I hope you guys know that the World is the last thing we Have. dont give up!</p>
 <br><br>
 <br><br>
+<p align="right">
 
 > "This city is a pile of shit, and you're gonna be part of it."
 
+</p>
+
 <img src="/photomode_22022025_025429.png" alt="tvs%20de%20tubo%20com%20tela%20azul" height="400px" width="100%" align="center"/>
 
+<p align="right">
+  
 > "Wake The Fuck Up, Samurai!" - Johnny Silverhand
+
+</p>
 
 <!--
 **ddr669/ddr669** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
