@@ -1,14 +1,10 @@
 
 <!--![gato burro voando no espaço de capacete gif](/kity_space.gif) !-->
-<style>
-  .back {
-  background-image: "/kity_space.gif";
-  
-  }
-</style>
 <!--<img src="/kity_space.gif" alt="gato%20burro%20no%20espaço" width="60px" height="60px" /> !-->
-<div class="back">
+<div style='background-image: "/kity_space.gif"'>
+  
 ## Hi there 👋
+
 </div>
 
 <!--
