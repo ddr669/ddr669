@@ -1,7 +1,8 @@
 
 <!--![gato burro voando no espaço de capacete gif](/kity_space.gif) !-->
 
-<img src="/kity_space.gif" alt="gato%20burro%20no%20espaço" width="60px" height="60px"> ## Hi there 👋
+<img src="/kity_space.gif" alt="gato%20burro%20no%20espaço" width="60px" height="60px"> 
+## Hi there 👋
 
 
 <!--
