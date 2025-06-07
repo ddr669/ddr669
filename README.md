@@ -1,10 +1,15 @@
 
 <!--![gato burro voando no espaço de capacete gif](/kity_space.gif) !-->
-
-<img src="/kity_space.gif" alt="gato%20burro%20no%20espaço" width="60px" height="60px"/> 
-
+<style>
+  .back {
+  background-image: "/kity_space.gif";
+  
+  }
+</style>
+<!--<img src="/kity_space.gif" alt="gato%20burro%20no%20espaço" width="60px" height="60px" /> !-->
+<div class="back">
 ## Hi there 👋
-
+</div>
 
 <!--
 **ddr669/ddr669** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
