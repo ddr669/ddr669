@@ -2,7 +2,7 @@
 <img src="/kity_space.gif" alt="gato%20burro%20no%20espaço" width="60px" height="65px" align="right"/>
 <p align="left">
  
- ## \t__DDr669__ 
+ ## __DDr669__ 
  
 </p>
 
