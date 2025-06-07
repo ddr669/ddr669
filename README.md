@@ -1,7 +1,7 @@
 <!--![gato burro voando no espaço de capacete gif](/kity_space.gif) !-->
 <img src="/kity_space.gif" alt="gato%20burro%20no%20espaço" width="60px" height="65px" align="right"/>
 
-<h2 align="center"> __DDr669__ [](https://github.com/ddr669) </h2>
+<h2 align="center"> __DDr669__ <a href="https://github.com/ddr669"></a> </h2>
 <!--
 **ddr669/ddr669** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
