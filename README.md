@@ -7,11 +7,11 @@
 <br><br>
 <br><br>
 
-<p align="right">
-
+<div align="right">
+  
 > "This city is a pile of shit, and you're gonna be part of it."
 
-</p>
+</div>
 
 <img src="/photomode_22022025_025429.png" alt="tvs%20de%20tubo%20com%20tela%20azul" height="400px" width="100%" align="center"/>
 
