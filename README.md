@@ -6,7 +6,10 @@
 <p align="center"> environmentalist 🍃 | Hacktivism 🐧 </p>
 <p align="left">
   
-  ```we are living in the Technofeudalism. nd thats is suck.<br>I hope you guys know that the World is the last thing we Have. dont give up!```
+  ```we are living in the Technofeudalism. nd thats is suck.```
+  <br>
+  
+  ```I hope you guys know that the World is the last thing we Have. dont give up!```
   
 </p>
 
