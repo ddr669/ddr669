@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[](compress.jpg)
+[](/compress.jpg)
 <!--
 **ddr669/ddr669** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
