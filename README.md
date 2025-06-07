@@ -1,7 +1,7 @@
 <!--![gato burro voando no espaço de capacete gif](/kity_space.gif) !-->
 <img src="/gato_nerd.jpg" alt="gato%20nerd%20inteligente%20burro" width="60px" height="65px" align="left"/>
 <img src="/kity_space.gif" alt="gato%20burro%20no%20espaço" width="60px" height="65px" align="right"/>
-
+<br>
 <h2 align="center"> __DDr669__ <a href="https://github.com/ddr669"></a> </h2>
 <img src="/gato_guerra.jpg" alt="gato%20burro%20indo%20pra%20guerra" width="80px" height="80px" align="right"/>
 <p align="center"> Environmentalist 🍃 | Hacktivism 🐧 | CyberSec ҉ &nbsp;&nbsp; |  BackEnd Dev  ☕</p>
