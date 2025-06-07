@@ -6,7 +6,10 @@
 <img src="/gato_guerra.jpg" alt="gato%20burro%20indo%20pra%20guerra" width="80px" height="80px" align="right"/>
 <p align="center"> &nbsp;Environmentalist 🍃 | Hacktivism 🐧 | CyberSec ҉ &nbsp;&nbsp; |  BackEnd Dev  ☕</p>
 <br><br>
-<h2></h2>
+<h2>
+  <img src="https://cdn11.bigcommerce.com/s-10c6f/images/stencil/1280x1280/products/76571/148256/WS331824__65279.1649777362.jpg?c=2"
+    alt="sobre%20maintance" height="80px" width="80px" align="left"/>
+</h2>
 <p align="left">
   
   ```we are living in the Technofeudalism. nd thats is suck.```
