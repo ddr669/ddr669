@@ -15,11 +15,11 @@
 
 <img src="/photomode_22022025_025429.png" alt="tvs%20de%20tubo%20com%20tela%20azul" height="400px" width="100%" align="center"/>
 
-<p align="right">
-  
+<div align="right">
+
 > "Wake The Fuck Up, Samurai!" - Johnny Silverhand
 
-</p>
+</div>
 
 <!--
 **ddr669/ddr669** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
