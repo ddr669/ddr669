@@ -4,9 +4,13 @@
 <h2 align="center"> __DDr669__ <a href="https://github.com/ddr669"></a> </h2>
 <br><br>
 <br><br>
+
 > "This city is a pile of shit, and you're gonna be part of it."
+
 <img src="/photomode_22022025_025429.png" alt="tvs%20de%20tubo%20com%20tela%20azul" height="400px" width="100%" align="center"/>
-> "Wake The Fuck Up, Samurai!" - Johnny Silverhand 
+
+> "Wake The Fuck Up, Samurai!" - Johnny Silverhand
+
 <!--
 **ddr669/ddr669** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
