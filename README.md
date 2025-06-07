@@ -1,9 +1,15 @@
-
 <!--![gato burro voando no espaço de capacete gif](/kity_space.gif) !-->
+
+<p align="left">
+ 
+ ## Hi there 👋
+
+</p>
+
 <p align="right">
  <img src="/kity_space.gif" alt="gato%20burro%20no%20espaço" width="60px" height="60px" position="relative"/>
 </p>
-## Hi there 👋
+
 
 </div>
 
