@@ -17,6 +17,7 @@
 </p>
 <br><br>
 <img src="https://tryhackme-badges.s3.amazonaws.com/ddr669.png" alt="THM{honey_badgers!}" />
+<img src="/gato_rindo.jpg" alt="gato%20burro%20rindo%20burro" width="100px" height="65px" align="left"/>
 <br><br>
 <br><br>
 
