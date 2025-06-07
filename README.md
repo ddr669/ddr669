@@ -1,6 +1,6 @@
 <!--![gato burro voando no espaço de capacete gif](/kity_space.gif) !-->
 <img src="/kity_space.gif" alt="gato%20burro%20no%20espaço" width="60px" height="65px" align="right"/>
-<p align="left">
+<p align="center">
  
  ## __DDr669__ [](https://github.com/ddr669)
  
