@@ -2,6 +2,7 @@
 <img src="/kity_space.gif" alt="gato%20burro%20no%20espaço" width="60px" height="65px" align="right"/>
 
 <h2 align="center"> __DDr669__ <a href="https://github.com/ddr669"></a> </h2>
+<p align="left" color="#4a4a4a"> we are in the new feudalism </p>
 <br><br>
 <br><br>
 
