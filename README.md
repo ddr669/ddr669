@@ -32,7 +32,7 @@
 
 <br>
 
-> - Johnny Silverhand
+> \- Johnny Silverhand
 
 </div>
 
