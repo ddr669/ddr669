@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[](/kity_space.gif)
+![gato burro voando no espaço de capacete gif](/kity_space.gif)
 <!--
 **ddr669/ddr669** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
