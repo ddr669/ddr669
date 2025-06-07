@@ -3,7 +3,7 @@
 
 <h2 align="center"> __DDr669__ <a href="https://github.com/ddr669"></a> </h2>
 <img src="/gato_guerra.jpg" alt="gato%20burro%20indo%20pra%20guerra" width="80px" height="60px" align="right"/>
-<p align="center">environmentalist 🍃 | </p>
+<p align="center"> environmentalist 🍃 | Hacktivism 🐧 </p>
 <p align="left"> we are living in the Technofeudalism. nd thats is suck.<br>I hope you guys know that the World is the last thing we Have. dont give up!</p>
 <br><br>
 <br><br>
