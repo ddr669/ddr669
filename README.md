@@ -15,9 +15,7 @@
   ```I hope you guys know that the World is the last thing we Have. dont give up!```
   
 </p>
-<div>
-  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4621466"></iframe>
-</div>
+<img src="https://tryhackme-badges.s3.amazonaws.com/ddr669.png" alt="THM{honey_badgers!}" />
 <br><br>
 <br><br>
 
