@@ -3,13 +3,13 @@
 <img src="/kity_space.gif" alt="gato%20burro%20no%20espaço" width="70px" height="85px" align="right"/>
 <br>
 <h1 align="center"> __DDr669__ <a href="https://github.com/ddr669"></a> </h1>
-<img src="/gato_guerra.jpg" alt="gato%20burro%20indo%20pra%20guerra" width="80px" height="80px" align="right"/>
+<img src="/gato_guerra.jpg" alt="gato%20burro%20indo%20pra%20guerra" width="100px" height="100px" align="right"/>
 <p align="center"> &nbsp;Environmentalist 🍃 | Hacktivism 🐧 | CyberSec  |  BackEnd Dev  ☕</p>
 <br><br>
 <p align="left">One day I will finish that page. 	ʕノ•ᴥ•ʔノ ︵ ┻━┻ </p>
 <br><br>
 
-<img src="/gato_gif02.gif" alt="gato%20dithering%20" width="100px" height="100px" align="center"/>
+<img src="/gato_gif02.gif" alt="gato%20dithering%20" width="100%" height="100%" align="center"/>
 
 <h2>
 </h2>
