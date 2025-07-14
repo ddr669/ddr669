@@ -9,7 +9,7 @@
 <p align="left">One day I will finish that page. 	ʕノ•ᴥ•ʔノ ︵ ┻━┻ </p>
 <br><br>
 
-<img src="/gato_gif02.gif" alt="gato%20dithering%20" width="30%" height="30%" align="center"/>
+<img src="/gato_gif02.gif" alt="gato%20dithering%20" width="30%" height="60%" align="center"/>
 
 <h2>
 </h2>
