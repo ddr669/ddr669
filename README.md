@@ -46,7 +46,7 @@
 
 <div align="center">
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-davevad93s-projects.vercel.app/api/top-langs?username=ddr669&show_icons=true&locale=en&layout=compact&langs_count=16&title_color=00FF2B&text_color=00FF2B&border_color=00FF2B&theme=chartreuse-dark" alt="ddr669" width=460 /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-davevad93s-projects.vercel.app/api/top-langs?username=ddr669&show_icons=true&locale=en&layout=compact&langs_count=16&background_color=282828&title_color=00FF2B&text_color=00FF2B&border_color=00FF2B&theme=chartreuse-dark" alt="ddr669" width=460 /></a>
 
 [![ddr669 status](https://github-readme-stats.vercel.app/api?username=ddr669&show_icons=true&title_color=00FF2B&text_color=00FF2B&border_color=00FF2B&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
