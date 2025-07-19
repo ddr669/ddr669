@@ -3,7 +3,7 @@
 <img src="/kity_space.gif" alt="gato%20burro%20no%20espaço" width="70px" height="85px" align="right"/>
 <br>
 <h1 align="center"> __DDr669__ <a href="https://github.com/ddr669"></a> </h1>
-<img src="/gato_guerra.jpg" alt="gato%20burro%20indo%20pra%20guerra" width="100px" height="100px" align="right"/>
+
 <p align="center"> &nbsp;Environmentalist 🍃 | Hacktivism 🐧 | CyberSec  |  BackEnd Dev  ☕</p>
 <br><br>
 
@@ -11,6 +11,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36F77D&background=0043FF&width=635&lines=%24+Sorry%2C+World!%5Cn%5Cr)](https://git.io/typing-svg)
 
 <br><br>
+<img src="/gato_guerra.jpg" alt="gato%20burro%20indo%20pra%20guerra" width="100px" height="100px" align="right"/>
+
+
 
 <img src="/gato_gif02.gif" alt="gato%20dithering%20" width="100px" height="100px" align="center"/>
 
