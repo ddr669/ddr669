@@ -6,7 +6,8 @@
 <img src="/gato_guerra.jpg" alt="gato%20burro%20indo%20pra%20guerra" width="100px" height="100px" align="right"/>
 <p align="center"> &nbsp;Environmentalist 🍃 | Hacktivism 🐧 | CyberSec  |  BackEnd Dev  ☕</p>
 <br><br>
-<p align="left">One day I will finish that page. 	ʕノ•ᴥ•ʔノ ︵ ┻━┻ </p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36F77D&background=0043FF&width=435&lines=%24+Sorry%2C+World!%5Cn%5Cr)](https://git.io/typing-svg)
+
 <br><br>
 
 <img src="/gato_gif02.gif" alt="gato%20dithering%20" width="100px" height="100px" align="center"/>
@@ -24,9 +25,13 @@
   
 </p>
 <br><br>
-<img src="https://tryhackme-badges.s3.amazonaws.com/ddr669.png" alt="THM{honey_badgers!}" />
+<img src="https://tryhackme-badges.s3.amazonaws.com/ddr669.png" alt="THM{honey_badgers!}" align="right"/>
 <img src="/gato_rindo.jpg" alt="gato%20burro%20rindo%20burro" width="200px" height="65px" align="left"/>
+
 <br><br>
+
+[![ddr669 status](https://github-readme-stats.vercel.app/api?username=ddr669)](https://github.com/anuraghazra/github-readme-stats)
+
 <br><br>
 
 <div align="right">
