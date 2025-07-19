@@ -8,7 +8,7 @@
 <br><br>
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36F77D&background=0043FF&width=435&lines=%24+Sorry%2C+World!%5Cn%5Cr)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36F77D&background=0043FF&width=635&lines=%24+Sorry%2C+World!%5Cn%5Cr)](https://git.io/typing-svg)
 
 <br><br>
 
@@ -20,12 +20,14 @@
     
   ```we are living in the Technofeudalism. nd thats is suck.```
   
-  <br> 
-  <img src="/gato_gay.jpg" alt="gato%20burro%20gay" width="60px" height="65px" align="right"/> 
+<br> 
+<img src="/gato_gay.jpg" alt="gato%20burro%20gay" width="60px" height="65px" align="right"/> 
   
   ```I hope you guys know that the World is the last thing we Have. dont give up!```
   
 </p>
+
+
 <br><br>
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/ddr669.png" alt="THM{honey_badgers!}" align="center"/>
