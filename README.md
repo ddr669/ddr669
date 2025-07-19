@@ -32,7 +32,11 @@
 
 <br><br>
 
+<div align="center">
+    
 [![ddr669 status](https://github-readme-stats.vercel.app/api?username=ddr669&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 
 <br><br>
 
