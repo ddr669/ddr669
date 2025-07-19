@@ -27,8 +27,8 @@
   
 </p>
 <br><br>
-<img src="https://tryhackme-badges.s3.amazonaws.com/ddr669.png" alt="THM{honey_badgers!}" align="right"/>
-<img src="/gato_rindo.jpg" alt="gato%20burro%20rindo%20burro" width="200px" height="65px" align="left"/>
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/ddr669.png" alt="THM{honey_badgers!}" align="center"/>
 
 <br><br>
 
@@ -39,6 +39,8 @@
 </div>
 
 <br><br>
+
+<img src="/gato_rindo.jpg" alt="gato%20burro%20rindo%20burro" width="200px" height="65px" align="left"/>
 
 <div align="right">
     
