@@ -6,6 +6,8 @@
 <img src="/gato_guerra.jpg" alt="gato%20burro%20indo%20pra%20guerra" width="100px" height="100px" align="right"/>
 <p align="center"> &nbsp;Environmentalist 🍃 | Hacktivism 🐧 | CyberSec  |  BackEnd Dev  ☕</p>
 <br><br>
+
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36F77D&background=0043FF&width=435&lines=%24+Sorry%2C+World!%5Cn%5Cr)](https://git.io/typing-svg)
 
 <br><br>
