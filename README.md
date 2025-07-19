@@ -59,7 +59,7 @@
 
 </div>
 
-<img src="/photomode_22022025_025429.png" alt="tvs%20de%20tubo%20com%20tela%20azul" height="300px" width="100%" align="center"/>
+<img src="/photomode_22022025_025429.png" alt="tvs%20de%20tubo%20com%20tela%20azul" height="220px" width="80%" align="center"/>
 
 <div align="right">
 
