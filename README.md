@@ -32,7 +32,7 @@
 
 <br><br>
 
-[![ddr669 status](https://github-readme-stats.vercel.app/api?username=ddr669)](https://github.com/anuraghazra/github-readme-stats)
+[![ddr669 status](https://github-readme-stats.vercel.app/api?username=ddr669&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <br><br>
 
