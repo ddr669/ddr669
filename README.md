@@ -64,18 +64,8 @@
 
 </div>
 
-<img src="/photomode_22022025_025429.png" alt="tvs%20de%20tubo%20com%20tela%20azul" height="220px" width="80%" align="center"/>
+[![An image of @ddr669's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ddr669)](https://holopin.io/@ddr669)
 
-<div align="right">
-
-> "Wake The Fuck Up, Samurai!"
->
-> 
-> <br>
->
-> \- Johnny Silverhand
-
-</div>
 
 <!--
 **ddr669/ddr669** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
