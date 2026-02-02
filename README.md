@@ -24,45 +24,38 @@
 
 <img src="/gato_gif02.gif" alt="gato%20dithering%20" width="100px" height="100px" align="center"/>
 
-<h2>
-</h2>
+
 <p align="left">
     
-  ```we are living in the Technofeudalism. nd thats is suck.```
+
+  ```we are living in the [Technofeudalism](https://simple.wikipedia.org/wiki/Technofeudalism). nd thats is suck.```
   
 <br> 
+
 <img src="/gato_gay.jpg" alt="gato%20burro%20gay" width="60px" height="65px" align="right"/> 
   
-  ```I hope you guys know that the World is the last thing we Have. dont give up!```
-  
+
 </p>
+
 
 
 <br><br>
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/ddr669.png" alt="THM{honey_badgers!}" align="center"/>
 
-<br><br>
-
-<div align="center">
-
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-davevad93s-projects.vercel.app/api/top-langs?username=ddr669&show_icons=true&locale=en&layout=compact&bg_color=282828&langs_count=16&title_color=00FF2B&text_color=00FF2B&border_color=00FF2B&theme=chartreuse-dark" alt="ddr669" width=460 /></a>
-
-</div>
 
 <br><br>
 
 <img src="/gato_rindo.jpg" alt="gato%20burro%20rindo%20burro" width="200px" height="65px" align="left"/>
 
+
 <div align="right">
-    
+
 > 
 > "This city is a pile of shit, and you're gonna be part of it."
 >
 
 </div>
-
-[![An image of @ddr669's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ddr669)](https://holopin.io/@ddr669)
 
 
 <!--
